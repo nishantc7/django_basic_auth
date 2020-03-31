@@ -10,5 +10,5 @@ Basic django authentication with REST api
 # Refresh token usage (Expires in five minutes)
 `http post http://127.0.0.1:8000/api/token/refresh/ refresh=eyJ0eXAiOuJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTU0NTMwODIyMiwianRpIjoiNzAyOGFlNjc0ZTdjNDZlMDlmMzUwYjg3MjU1NGUxODQiLCJ1c2VyX2lkIjoxfQ.Md8AO3dDrQBvWYWeZsd_A1J39z6b6HEwWIUZ7ilOiPE`
 
-![screenshot](https://github.com/nishantc7/screenshot.png "Screenshot")
+![screenshot](https://github.com/nishantc7/django_basic_auth\screenshot.png "Screenshot")
 
